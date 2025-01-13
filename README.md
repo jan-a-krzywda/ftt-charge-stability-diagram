@@ -4,7 +4,7 @@ We use Fourier transform to identify parameters of semiconductor Quantum dot sys
 Blog post: https://qplai.liacs.nl/index.php/2025/01/13/autonomous-extraction-of-semiconductor-quantum-dot-parameters-using-a-basic-fourier-transform-approach/
 
 ### Example
-![alt text](image.png)
+![alt text](image-4.png)
 ![alt text](image-1.png)
 
 ### Performance
