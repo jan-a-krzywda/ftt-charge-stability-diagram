@@ -3,7 +3,7 @@ We use Fourier transform to identify parameters of semiconductor Quantum dot sys
 
 
 ### How to run?
-1. Download the dataset from [link]([asd](https://leidenuniv1-my.sharepoint.com/:u:/g/personal/krzywdaja_vuw_leidenuniv_nl/EccqnFnrldFDreY5xaaeRVEBOGKyDFh6RZMv1QUsemxrHQ?e=RX60mY)) and place into code/data folder
+1. Download the dataset from https://leidenuniv1-my.sharepoint.com/:u:/g/personal/krzywdaja_vuw_leidenuniv_nl/EccqnFnrldFDreY5xaaeRVEBOGKyDFh6RZMv1QUsemxrHQ?e=RX60mY and place into code/data folder
 2. Run the code in example 
 
 or 
